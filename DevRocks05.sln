@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevRocks05.App", "DevRocks05.App\DevRocks05.App.csproj", "{8D5CD730-27D4-4AA6-BAC6-613938A63BFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevRocks05.App.UnitTests", "DevRocks05.App.UnitTests\DevRocks05.App.UnitTests.csproj", "{918BCDD0-6F66-489B-9E9B-C90B1E73A78F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D5CD730-27D4-4AA6-BAC6-613938A63BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D5CD730-27D4-4AA6-BAC6-613938A63BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D5CD730-27D4-4AA6-BAC6-613938A63BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D5CD730-27D4-4AA6-BAC6-613938A63BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{918BCDD0-6F66-489B-9E9B-C90B1E73A78F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918BCDD0-6F66-489B-9E9B-C90B1E73A78F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918BCDD0-6F66-489B-9E9B-C90B1E73A78F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918BCDD0-6F66-489B-9E9B-C90B1E73A78F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
